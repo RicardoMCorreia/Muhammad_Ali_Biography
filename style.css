@@ -1,13 +1,19 @@
+.logo {
+    color: white;
+}
+
 header {
     background-color: black;
     padding: 2px;
+
 }
 
-ul {
+.navbar {
     display: flex;
     list-style-type: none;
     justify-content: flex-end;
 }
+
 
 .profile {
     color: white;
@@ -15,6 +21,7 @@ ul {
         "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
     text-decoration: none;
     font-size: 15px;
+
 }
 
 .career {
@@ -33,4 +40,8 @@ ul {
         "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
     text-decoration: none;
     font-size: 15px;
+
+}
+
+
 }
