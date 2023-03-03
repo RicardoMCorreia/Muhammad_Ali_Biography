@@ -1,7 +1,36 @@
+header {
+    background-color: black;
+    padding: 2px;
+}
+
 ul {
     display: flex;
-    text-decoration: none;
     list-style-type: none;
     justify-content: flex-end;
+}
 
+.profile {
+    color: white;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.career {
+    margin: 15px;
+    color: white;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.gallery {
+    margin-right: 15px;
+    color: white;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    font-size: 15px;
 }
