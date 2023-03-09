@@ -101,6 +101,7 @@ nav {
 
 .text-career-1 {
     margin-top: 40px;
+    line-height: 1.4;
 
 }
 
@@ -112,4 +113,19 @@ nav {
     gap: 80px;
     margin: 40px;
     margin-bottom: 50px;
+}
+
+.text-career-2 {
+    margin-top: 40px;
+    line-height: 1.4;
+
+    text-align: justify;
+}
+
+#sub-title-career {
+    text-align: center;
+}
+
+.ali-conviction {
+    margin-top: 40px;
 }
