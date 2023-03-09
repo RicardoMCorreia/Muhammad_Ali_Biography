@@ -90,13 +90,14 @@ nav {
     display: flex;
     justify-content: space-around;
     gap: 80px;
-    margin: 40px;
+    margin: 5%;
     margin-bottom: 50px;
 }
 
 .ali-gold {
 
-    margin-top: 70px;
+    margin-top: 60px;
+    object-fit: cover;
 }
 
 .text-career-1 {
@@ -109,10 +110,9 @@ nav {
 
 .container-career-2 {
     display: flex;
-
     justify-content: space-around;
     gap: 80px;
-    margin: 40px;
+    margin: 5%;
     margin-bottom: 50px;
 }
 
@@ -129,18 +129,22 @@ nav {
 
 .ali-conviction {
     margin-top: 60px;
+    object-fit: cover;
 
 }
 
 .ali-frazier {
     margin-top: 60px;
+    object-fit: cover;
 }
 
 .ali-foreman {
     margin-top: 60px;
     margin-bottom: 40px;
+    object-fit: cover;
 }
 
 .ali-frazier-3 {
     margin-top: 60px;
+    object-fit: cover;
 }
