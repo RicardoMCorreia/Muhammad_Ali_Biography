@@ -58,19 +58,23 @@ header {
 
 .container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 
 }
 
 
-ul {
+.personal-id {
     list-style-type: none;
     line-height: 2.1;
-    margin-top: 30px;
+    margin-top: 20px;
     margin-right: 30px;
 
 }
 
 .ali-portrait {
     margin-left: 30px;
+}
+
+.early-life {
+    margin-left: 100px;
 }
