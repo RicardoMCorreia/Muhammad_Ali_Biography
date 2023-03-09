@@ -52,13 +52,14 @@ header {
 
 }
 
-.ali-kid {
-    margin: 30px;
-}
 
-.container {
+
+.container-1 {
     display: flex;
     justify-content: space-around;
+    margin: 30px;
+    margin-top: 70px;
+    gap: 17%;
 
 }
 
@@ -66,15 +67,25 @@ header {
 .personal-id {
     list-style-type: none;
     line-height: 2.1;
-    margin-top: 20px;
-    margin-right: 30px;
+    margin-top: -20px;
+    font-size: 12;
 
 }
 
 .ali-portrait {
-    margin-left: 30px;
+    max-width: 35%;
 }
 
 .early-life {
-    margin-left: 100px;
+
+    font-size: 20px;
+
+}
+
+.container-2 {
+    display: flex;
+    justify-content: space-around;
+    gap: 17%;
+    margin: 30px;
+
 }
