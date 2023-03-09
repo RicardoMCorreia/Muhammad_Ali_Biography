@@ -101,7 +101,8 @@ nav {
 
 .text-career-1 {
     margin-top: 40px;
-    line-height: 1.4;
+    line-height: 1.5;
+    font-size: 20px;
 
 }
 
@@ -117,9 +118,9 @@ nav {
 
 .text-career-2 {
     margin-top: 40px;
-    line-height: 1.4;
-
+    line-height: 1.5;
     text-align: justify;
+    font-size: 20px;
 }
 
 #sub-title-career {
@@ -127,5 +128,19 @@ nav {
 }
 
 .ali-conviction {
-    margin-top: 40px;
+    margin-top: 60px;
+
+}
+
+.ali-frazier {
+    margin-top: 60px;
+}
+
+.ali-foreman {
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+
+.ali-frazier-3 {
+    margin-top: 60px;
 }
