@@ -131,3 +131,12 @@ nav {
 
 
 }
+
+footer {
+    background-color: black;
+    padding: 15px;
+    font-family: verdana;
+    color: white;
+    margin-left: 8px;
+    font-size: 12px;
+}
