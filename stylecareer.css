@@ -13,7 +13,7 @@
     justify-content: flex-start;
     margin: 15px;
     margin-left: 60px;
-    font-size: 40px;
+    font-size: 45px;
 
 }
 
@@ -89,13 +89,13 @@ nav {
 
 .ali-gold {
 
-    margin-top: 60px;
+    margin-top: 70px;
     object-fit: cover;
 }
 
 .text-career-1 {
     margin-top: 40px;
-    line-height: 1.5;
+    line-height: 1.6;
     font-size: 20px;
     font-family: verdana;
 
@@ -112,7 +112,7 @@ nav {
 
 .text-career-2 {
     margin-top: 40px;
-    line-height: 1.5;
+    line-height: 1.6;
     text-align: justify;
     font-size: 20px;
     font-family: verdana;
@@ -142,6 +142,7 @@ nav {
 .ali-frazier-3 {
     margin-top: 60px;
     object-fit: cover;
+
 }
 
 footer {
